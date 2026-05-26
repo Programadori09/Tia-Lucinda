@@ -1,0 +1,19 @@
+colegio/
+├── index.html
+├── admin/
+│   ├── login.php
+│   ├── dashboard.php
+│   └── logout.php
+├── css/
+│   └── style.css
+├── config/
+│   └── database.php
+└── images/
+    ├── logo-lucinda.jpeg
+    ├── lu3.jpeg
+    ├── g.jpeg
+    ├── h.jpeg
+    ├── Ana.jpg
+    ├── da.jpg
+    ├── jp.jpeg
+    └── v.jpeg
